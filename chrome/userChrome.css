@@ -1,0 +1,34 @@
+#threadTree {
+  background-color: #e7e7e7 !important;
+}
+
+#calendar-list,
+#messagePane,
+#folderPane,
+#folderPaneBox,
+#folderPane > scrollbox,
+#folderTree,
+#folderTree treechildren {
+  background-color: #e7e7e7 !important;
+  background-image: none !important;
+}
+
+#threadTree tr.selected,
+#threadTree tr.selected:hover {
+  color: #ffffff !important;
+  background-color: #999999 !important;
+}
+
+#threadTree tr:hover {
+  color:#000000 !important;
+  background-color: #999999 !important;
+}
+
+image.toolbarbutton-icon[label="Archive"] {
+  fill: orange;
+}
+
+image.toolbarbutton-icon[label="Delete"] {
+  fill: #FF6347;
+}
+
