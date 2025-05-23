@@ -10,8 +10,11 @@ Thunderbird 115+
 ## Installation
 
 1. Enable userChrome in Thunderbird:
+
 &ensp;Navigate to Settings > General > Config Editor
+
 &ensp;Search for **toolkit.legacyUserProfileCustomizations.stylesheets**
+
 &ensp;Toggle to 'true'
 
 2. Locate your profile directory:
