@@ -16,7 +16,9 @@ Thunderbird 115+
 
 2. Locate your profile directory:
 * Navigate to Help > Troubleshooting Information.
-* Under the Application Basics section, find the Profile Directory row, then click on Open Directory. Your profile folder will open.
+* Under the Application Basics section, find the Profile Directory row.
+* Locate the profile which is in use; it will be labelled as: *This is the profile in use and it cannot be deleted*.
+* Click on Open Folder for the **Root Directory**. Your profile folder will open.
 
 3. In your profile directory, create a new folder called 'chrome'.
 
